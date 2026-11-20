@@ -1,0 +1,6 @@
+{
+  "desktopRoot": "",
+  "adminHost": "YOUR_GODOMALL_ADMIN_HOST",
+  "cdpUrl": "http://127.0.0.1:9222",
+  "chatSpace": "YOUR_CHAT_SPACE_ID"
+}

@@ -1,0 +1,14 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+config.local.json
+work/
+results/
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.log
+browser-profile/
